@@ -3,7 +3,7 @@
 require_relative 'shellsort2.rb'
 require 'test/unit'
 
-# Suka
+# Test klase skirta ShellSort rikiavimo funkcijos testavimui
 class ShellSortTest < Test::Unit::TestCase
   def test_sort_6_numbers_array
     arraynum = 6
