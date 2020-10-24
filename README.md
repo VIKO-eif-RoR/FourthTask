@@ -3,3 +3,6 @@
 
 ## Ruslan Nosko:
 1) Unit tests of Shell Sort in folder ShellSort
+
+## Andrej Miskelovič
+1) Unit tests of Caesar cipher in Caesar folder
